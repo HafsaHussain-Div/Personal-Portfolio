@@ -1,0 +1,14 @@
+/* .aboutimg{
+position: relative;
+left: 50px;
+} */
+/* .text{
+    /* position: relative;
+   left: 10px;  */
+.girl{
+  filter: drop-shadow(20px 20px 50px #AA5E7A) ;
+  transition: 1s;
+}
+.girl:hover{
+   transform: scale(0.9);
+}
